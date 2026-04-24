@@ -34,3 +34,9 @@ student-result-management-system/
 🎯 Overview
 
 This project demonstrates the implementation of a complete data management system using Python and SQL. It includes core functionalities such as CRUD operations, automated result processing, and analytical reporting. The integration of visualization and dashboard features enhances its capability to provide meaningful insights from the stored data, making it a strong project for academic and professional use.
+
+3️⃣ Install Requirements
+pip install -r requirements.txt
+
+4️⃣ Run the Application
+python main.py
